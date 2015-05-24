@@ -1,0 +1,110 @@
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.dll.config
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.pdb
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Antlr3.Runtime.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.SqlServer.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Google.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Web.Infrastructure.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Newtonsoft.Json.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Owin.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Helpers.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Mvc.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Optimization.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Razor.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Deployment.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Razor.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\WebGrease.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Helpers.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Mvc.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Optimization.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Razor.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Deployment.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Razor.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Antlr3.Runtime.pdb
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Newtonsoft.Json.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.SqlServer.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Google.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.dll
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.pdb
+C:\Shiman\Projects\ASPNetMVCExtendingIdentity2Roles\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.csprojResolveAssemblyReference.cache
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.dll.config
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\ASPNetMVCExtendingIdentity2Roles.pdb
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Antlr3.Runtime.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.SqlServer.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Newtonsoft.Json.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Owin.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Helpers.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Mvc.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Optimization.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Razor.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Razor.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\WebGrease.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Helpers.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Mvc.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Optimization.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.Razor.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\System.Web.WebPages.Razor.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Antlr3.Runtime.pdb
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Newtonsoft.Json.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\EntityFramework.SqlServer.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.csprojResolveAssemblyReference.cache
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.dll
+C:\Users\khalid\Downloads\New folder (2)\ASPNetMVCExtendingIdentity2Roles\obj\Debug\ASPNetMVCExtendingIdentity2Roles.pdb
